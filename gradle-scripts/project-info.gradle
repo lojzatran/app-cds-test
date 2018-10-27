@@ -1,0 +1,4 @@
+group = 'lamtran.cds'
+version = '2.0.1'
+mainClassName = 'lamtran.cds.Main'
+description = "Test app for Application Class Data Sharing"

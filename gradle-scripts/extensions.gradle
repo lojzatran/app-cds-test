@@ -1,0 +1,7 @@
+ext {
+    commercetoolsJvmSdkVersion =  '1.27.0'
+    slf4jVersion = '1.7.25'
+    slf4jTestVersion = '1.2.0'
+    commercetoolsSyncJava='v1.0.0-M8'
+    apacheCliVersion = '1.4'
+}
